@@ -6,17 +6,17 @@ export const navLinks = [
     },
     {
       id: 2,
-      name: 'ABOUT',
+      name: 'ME',
       href: '#about',
     },
     {
       id: 3,
-      name: 'WORK',
+      name: 'MY STUFF',
       href: '#work',
     },
     {
       id: 4,
-      name: 'CONTACT',
+      name: 'HOLLER',
       href: '#contact',
     },
   ];
@@ -58,10 +58,10 @@ export const navLinks = [
   
   export const myProjects = [
     {
-      title: 'Podcastr - AI Podcast Platform',
-      desc: 'Podcastr is a revolutionary Software-as-a-Service platform that transforms the way podcasts are created. With advanced AI-powered features like text-to-multiple-voices functionality, it allows creators to generate diverse voiceovers from a single text input.',
+      title: 'Ink It',
+      desc: 'Ink It is a tool for tattoo artists to manage their clients and appointments as well as keep track of their messages and reference images',
       subdesc:
-        'Built as a unique Software-as-a-Service app with Next.js 14, Tailwind CSS, TypeScript, Framer Motion and Convex, Podcastr is designed for optimal performance and scalability.',
+        'Built with React Native, Tailwind, and Appwrite, Ink It is designed for optimal performance and scalability.',
       href: 'https://www.youtube.com/watch?v=zfAb95tJvZQ',
       texture: '/textures/project/project1.mp4',
       logo: '/assets/project-logo1.png',
